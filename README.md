@@ -18,7 +18,7 @@ Built using **MongoDB, Express.js, React, and Node.js (MERN Stack).**
 - **Frontend:** React, Redux Toolkit, TailwindCSS, React Router, Swiper.js  
 - **Backend:** Node.js, Express.js, MongoDB, JWT, bcryptjs  
 - **Database:** MongoDB Atlas  
-- **Deployment:** Render (Backend), Vercel/Netlify (Frontend)  
+- **Deployment:** Render (Backend , Frontend)  
 
 ---
 
